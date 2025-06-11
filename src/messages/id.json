@@ -1,0 +1,242 @@
+{
+  "Menu": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "services": "Layanan",
+    "newsResume": "Berita & Resume",
+    "newsResumeDesc": "News & Resume berisi berita terbaru tentang isu lingkungan hidup serta rangkuman proyek yang telah diselesaikan oleh tim PT Amara Cisadane.",
+    "gallery": "Galeri",
+    "galleryOperational": "Galeri Operasional",
+    "galleryOperationalDesc": "Galeri Operasional menampilkan dokumentasi aktivitas lapangan, pelaksanaan proyek, dan operasional teknis terkait layanan konsultasi lingkungan.",
+    "galleryNonOperational": "Galeri Non Operasional",
+    "galleryNonOperationalDesc": "Galeri Non-Operasional menampilkan acara perusahaan, pertemuan tim, sesi pelatihan, dan berbagai aktivitas internal lainnya.",
+    "policiesDocs": "Kebijakan & Dokumen",
+    "regulations": "Regulasi",
+    "regulationsDesc": "Menu Regulasi berisi dokumen hukum, termasuk undang-undang, peraturan pemerintah, dan peraturan menteri terkait kebijakan dan kepatuhan lingkungan.",
+    "newsUpdates": "Kabar & Pembaruan",
+    "events": "Acara",
+    "eventsDesc": "Menu Acara menampilkan peringatan hari-hari besar dan acara penting yang dilalui oleh PT Amara Cisadane.",
+    "journals": "Jurnal",
+    "journalsDesc": "Menu Jurnal berisi artikel penelitian, kajian lingkungan, serta wawasan ahli tentang keberlanjutan dan pengelolaan lingkungan."
+  },
+  "CTA": {
+    "label": "Hubungi Kami",
+    "search": "Cari",
+    "save": "Simpan",
+    "reset": "Atur Ulang",
+    "socmed": "Sosial Media Kami",
+    "viewMore": "Lebih Banyak"
+  },
+  "HomePage": {
+    "title": "Solusi Anda untuk Lingkungan Hidup Lebih Baik",
+    "description": "Teknologi, Konsultasi Manajemen & Layanan untuk Lingkungan, Keselamatan, dan Kesehatan.",
+    "getStarted": "Mulai Sekarang",
+    "interestTitle": "Tertarik dengan Layanan Kami?",
+    "interestDescription": "Dapatkan panduan ahli dalam pengelolaan lingkungan. Hubungi kami untuk informasi lebih lanjut dan konsultasi.",
+    "activitiesTitle": "Kegiatan Terbaru Kami",
+    "activitiesDescription": "Judul ini menyoroti aktivitas terbaru yang dilakukan oleh PT Amara tanpa terikat pada tahun tertentu, dengan fokus pada inisiatif yang sedang berjalan dan terkini.",
+    "newsResumeTitle": "Melacak Dampak Lingkungan Kami Saat Ini",
+    "newsResumeDescription": "Gambaran umum tentang proyek-proyek yang sedang berlangsung dalam mendukung keberlanjutan dan tujuan lingkungan.",
+    "keywords": [
+      "pengelolaan limbah",
+      "sistem manajemen lingkungan",
+      "audit lingkungan",
+      "konsultan lingkungan",
+      "teknologi hijau",
+      "energi terbarukan",
+      "limbah B3",
+      "pengolahan air limbah",
+      "uji kualitas air",
+      "assesment lingkungan",
+      "ISO 14001",
+      "OHSAS 18001",
+      "sertifikasi lingkungan",
+      "berkelanjutan",
+      "ekologi",
+      "lingkungan hidup",
+      "kebersihan",
+      "pencemaran",
+      "daur ulang",
+      "hemat energi",
+      "biodegradable",
+      "non-toksik",
+      "lingkungan sehat"
+    ]
+  },
+  "About": {
+    "pageTitle": "Tentang PT Amara Cisadane | Konsultan Lingkungan Profesional",
+    "pageDescription": "PT Amara Cisadane adalah konsultan lingkungan terpercaya. Kami menyediakan layanan lengkap Amdal, KTPA, dan ATPA. Hubungi kami untuk solusi lingkungan Anda.",
+    "shortTitle": "Tentang Kami",
+    "shortDescription": "PT Amara Cisadane adalah suatu Perseroan Terbatas yang berorientasi pada kegiatan Jasa konsultan Managemen, Teknik, dan Pelayanan Jasa Lainnya untuk Sanitasi dan Lingkungan. Kegiatan usaha didukung dengan registrasi sebagai Lembaga Penyedia Jasa Penyusunan Dokumen AMDAL dengan <a>No. 0085/LPJ/AMDAL-1/LRK/KLH</a>.",
+    "title": "Kenali Organisasi Kami",
+    "description": "Perusahaan sepenuhnya dikelola oleh sumber daya yang terdiri dari berbagai disiplin ilmu dengan pengalaman dan keterampilan sesuai bidangnya masing – masing. Setiap personil memiliki kompetensi sebagai penyusun Amdal (KTPA & ATPA) dan kompetensi teknik sesuai keahlian di bidang geofisik kimia, biologi, sosekbud, kesehatan masyarakat, lalu lintas, dan lain-lain.",
+    "CTA": "Pelajari Lebih Lanjut",
+    "supports": "Dukungan Kami",
+    "visionTitle": "Visi Kami",
+    "visionDescription": "Menjadi Perusahaan jasa Kosultan Lingkungan yang kompeten dan profesional serta menjadi bagian Garda Depan bagi Pembangunan yang Berkelanjutan dan Berwawasan Lingkungan.",
+    "missionTitle": "Misi Kami",
+    "missionDescription": "<div><ul><li>Memberikan layanan konsultasi lingkungan sesuai kebijakan dan peraturan perundangan yang berlaku untuk memenuhi kebutuhan dan kepuasan pelanggan.</li><li>Senantiasa meningkatkan kemampuan personil sebagai ketua atau anggota tim penyusun ataupun tenaga ahli untuk semua pendukung.</li><li>Meningkatkan kinerja dan kapasitas perusahaan sehingga mampu menyelesaikan pekerjaan tepat waktu dan bermutu.</li><li>Memberikan layanan konsultasi lingkungan yang terbaik sehingga kepuasan mitra usaha/mitra kerja tercapai dengan memegang teguh nilai-nilai dasar Pancasila, keilmuan, kebudayaan, etika, dan profesionalisme.</li></ul></div>",
+    "organization": "Struktur Organisasi Kami",
+    "experienceTitle": "Pengalaman dan Portfolio Kami",
+    "experienceDescription": "Menunjukkan dedikasi kami terhadap keunggulan dan solusi lingkungan yang berdampak.",
+    "experienceTableHead": [
+      "Nama Instansi",
+      "Paket Pekerjaan",
+      "Lokasi",
+      "Tahun",
+      "Jenis Service"
+    ],
+    "keywords": [
+      "PT Amara Cisadane",
+      "konsultan lingkungan",
+      "Amdal",
+      "KTPA",
+      "ATPA",
+      "studi lingkungan",
+      "analisis dampak lingkungan",
+      "geofisika",
+      "kimia",
+      "biologi",
+      "sosekbud",
+      "kesehatan masyarakat",
+      "lalu lintas",
+      "perusahaan konsultan",
+      "layanan lingkungan",
+      "konsultan Amdal",
+      "jasa lingkungan",
+      "lingkungan hidup",
+      "kelestarian lingkungan",
+      "perizinan lingkungan",
+      "manajemen lingkungan",
+      "tentang PT Amara Cisadane",
+      "profil PT Amara Cisadane",
+      "sejarah PT Amara Cisadane",
+      "visi misi PT Amara Cisadane",
+      "perusahaan Amara Cisadane",
+      "kerja sama dengan Amara Cisadane",
+      "kontak Amara Cisadane",
+      "hubungi Amara Cisadane"
+    ]
+  },
+  "SwitchButtonLanguage": {
+    "label": "Indonesia"
+  },
+  "ServiceList": {
+    "title": "Mewujudkan Keunggulan Melalui <span>Layanan</span> Kami",
+    "description": "Konsultasi lingkungan yang komprehensif, dirancang untuk memenuhi beragam kebutuhan klien dengan presisi dan inovasi.",
+    "filterAll": "Semua",
+    "btnText": "Lebih Banyak",
+    "pageTitle": "Layanan Konsultasi Lingkungan Komprehensif untuk Keunggulan",
+    "btnView": "Lebih Banyak",
+    "portoClients": "Klien",
+    "keywords": [
+      "layanan konsultasi lingkungan",
+      "konsultasi lingkungan komprehensif",
+      "jasa lingkungan",
+      "Amdal",
+      "KTPA",
+      "ATPA",
+      "studi lingkungan",
+      "analisis dampak lingkungan",
+      "keunggulan",
+      "presisi",
+      "inovasi",
+      "memenuhi kebutuhan",
+      "solusi lingkungan",
+      "layanan profesional",
+      "konsultan lingkungan terpercaya",
+      "jasa konsultasi",
+      "lingkungan hidup",
+      "kelestarian lingkungan",
+      "perizinan lingkungan"
+    ]
+  },
+  "ServiceDetailPage": {
+    "buttonBack": "Kembali",
+    "advantagesTitle": "Keuntungan",
+    "advantagesCardDetail": "Keuntungan",
+    "stepProcessTitle": "Tahapan Pengerjaan Kami",
+    "stepProcessDesc": "Metode yang jelas dan terstruktur untuk memberikan hasil layanan yang luar biasa."
+  },
+  "Regulations": {
+    "title": "Repositori Peraturan Lingkungan Hidup",
+    "description": "Kumpulan dokumen yang komprehensif terkait peraturan dan kepatuhan lingkungan hidup.",
+    "pageTitle": "Kumpulan Dokumen Peraturan dan Kepatuhan Lingkungan Hidup",
+    "keywords": [
+      "regulasi lingkungan",
+      "peraturan lingkungan",
+      "kepatuhan lingkungan",
+      "dokumen lingkungan",
+      "regulasi lingkungan hidup",
+      "peraturan pemerintah",
+      "peraturan daerah",
+      "undang-undang lingkungan",
+      "standar lingkungan",
+      "perizinan lingkungan",
+      "amdal",
+      "ktpa",
+      "atpa",
+      "uji lingkungan",
+      "limbah B3",
+      "udara bersih",
+      "air bersih",
+      "tanah",
+      "keanekaragaman hayati",
+      "perubahan iklim",
+      "repositori regulasi",
+      "database lingkungan",
+      "informasi lingkungan",
+      "sumber daya alam",
+      "lingkungan hidup",
+      "kelestarian lingkungan"
+    ]
+  },
+  "NewsUpdates": {
+    "title": "Berita Lingkungan Terbaru dan Ringkasan Proyek",
+    "description": "Dapatkan informasi terbaru tentang berita lingkungan dan jelajahi ringkasan proyek yang telah diselesaikan oleh PT Amara Cisadane."
+  },
+  "Activities": {
+    "title": "Melacak Dampak Lingkungan Kami Saat Ini",
+    "description": "Gambaran umum proyek yang sedang berlangsung dalam mendukung keberlanjutan dan tujuan lingkungan."
+  },
+  "Journals": {
+    "title": "Sorotan Jurnal Lingkungan",
+    "description": "Kumpulan Artikel Ilmiah Terkurasi tentang Ilmu Lingkungan dan Keberlanjutan"
+  },
+  "Empty": {
+    "title": "Data Tidak Tersedia",
+    "description": "Maaf, kami akan memberi tahu Anda setelah ada postingan baru yang tersedia."
+  },
+  "Gallery": {
+    "titleOperational": "Galeri Operasional: Menampilkan Kegiatan Kami",
+    "titleNonOperational": "Galeri Non-Operasional: Menampilkan Kegiatan Kami",
+    "descriptionOperational": "Koleksi visual yang menampilkan esensi dari aktivitas dan pencapaian operasional kami.",
+    "descriptionNonOperational": "Koleksi visual yang menampilkan esensi dari aktivitas dan pencapaian non-operasional kami."
+  },
+  "FAQ": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "description": "Panduan lengkap untuk pertanyaan umum dan jawabannya.",
+    "faqContents": {
+      "question-1": {
+        "question": "Produk apa saja yang ditawarkan oleh PT Amara Cisadane?",
+        "answer": "PT Amara Cisadane menawarkan jasa konsultansi penyusunan dokumen lingkungan, kajian teknis dan persetujuan teknis, SLO, serta perencanaan IPAL. Selain itu, PT Amara Cisadane juga memiliki anak perusahaan yang bergerak di bidang Design, Konstruksi, dan Instalasi Sistem Air dan Air Limbah (IPAL)."
+      },
+      "question-2": {
+        "question": "Di mana Lokasi PT Amara Cisadane?",
+        "answer": "PT Amara Cisadane merupakan jasa konsultansi lingkungan yang berlokasi di Serpong, Tangerang Selatan, Banten. Namun kami memiliki banyak pengalaman di berbagai kota dan bahkan di berbagai Pulau di Indonesia."
+      },
+      "question-3": {
+        "question": "Apakah PT Amara Cisadane sudah terdaftar di Kementerian Lingkungan Hidup (KLH)?",
+        "answer": "Ya, PT Amara Cisadane sudah terdaftar di KLH sebagai Lembaga Penyedia Jasa Penyusunan (LPJP) Dokumen AMDAL dengan No. 0085/LPJ/AMDAL-1/LRK/KLH."
+      },
+      "question-4": {
+        "question": "Apakah PT Amara Cisadane memiliki tim dan tenaga ahli yang bersertifikat?",
+        "answer": "Ya, semua tim dan tenaga ahli PT Amara Cisadane sudah dilengkapi dengan sertifikat AMDAL A, AMDAL B, Anggota Tim Penyusun AMDAL (ATPA), Ketua Tim Penyusun AMDAL (KTPA), dan sertifikat pendukung lain sesuai dengan bidang keahlian masing-masing."
+      },
+      "question-5": {
+        "question": "Apakah PT Amara Cisadane memiliki laboratorium lingkungan yang sudah terakreditasi KAN (Komite Akreditasi Nasional)?",
+        "answer": "PT Amara Cisadane didukung oleh PT Kehatilab Indonesia sebagai penyedia laboratorium lingkungan yang terakreditasi dari KAN (Komite Akreditasi Nasional) No. LP-852-IDN dan Registrasi sebagai Laboratorium Lingkungan dari Kementrian Lingkungan Hidup (KLH) dengan No. Registrasi Kompetensi: 0078/LPJ/LABLING-1/LRK/KLH."
+      }
+    }
+  }
+}

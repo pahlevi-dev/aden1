@@ -1,0 +1,241 @@
+{
+  "Menu": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "newsResume": "News & Resume",
+    "newsResumeDesc": "The News & Resume section provides the latest updates on environmental issues and summarizes completed projects undertaken by PT Amara Cisadane.",
+    "gallery": "Gallery",
+    "galleryOperational": "Gallery Operational",
+    "galleryOperationalDesc": "The Operational Gallery presents documentation of field activities, project implementations, and technical operations related to environmental consulting services.",
+    "galleryNonOperational": "Gallery Non Operational",
+    "galleryNonOperationalDesc": "The Non-Operational Gallery highlights company events, team meetings, training sessions, and other internal activities.",
+    "policiesDocs": "Policies & Documents",
+    "regulations": "Regulations",
+    "regulationsDesc": "The Regulations menu contains legal documents, including laws, government regulations, and ministerial decrees related to environmental policies and compliance.",
+    "newsUpdates": "News & Updates",
+    "events": "Events",
+    "eventsDesc": "The Events section highlights important occasions and commemorations observed by PT Amara Cisadane.",
+    "journals": "Journals",
+    "journalsDesc": "The Journal menu provides access to research articles, environmental studies, and expert insights on sustainability and environmental management."
+  },
+  "CTA": {
+    "label": "Contact Us",
+    "search": "Search",
+    "save": "Save",
+    "reset": "Reset",
+    "socmed": "Our Social Media",
+    "viewMore": "View More"
+  },
+  "HomePage": {
+    "title": "Your Solution for a Better Environment",
+    "description": "Engineering, Management Consultant & Services for the Environment, Safety & Health.",
+    "getStarted": "Get Started",
+    "interestTitle": "Interested in Our Services?",
+    "interestDescription": "Receive expert guidance on environmental management. Contact us for more information and consultation.",
+    "activitiesTitle": "Our Latest Activities",
+    "activitiesDescription": "This title highlights the most recent activities conducted by PT Amara without tying them to a specific year, focusing on showcasing ongoing and up-to-date initiatives.",
+    "newsResumeTitle": "Tracking Our Current Environmental Impact",
+    "newsResumeDescription": "An overview of ongoing projects advancing sustainability and environmental goals.",
+    "keywords": [
+      "waste management",
+      "environmental management system",
+      "environmental audit",
+      "environmental consultant",
+      "green technology",
+      "renewable energy",
+      "hazardous waste",
+      "wastewater treatment",
+      "water quality testing",
+      "environmental assessment",
+      "ISO 14001",
+      "OHSAS 18001",
+      "environmental certification",
+      "sustainability",
+      "ecology",
+      "environment",
+      "cleanliness",
+      "pollution",
+      "recycling",
+      "energy saving",
+      "biodegradable",
+      "non-toxic",
+      "healthy environment"
+    ]
+  },
+  "About": {
+    "pageTitle": "About PT Amara Cisadane | Professional Environmental Consultancy",
+    "pageDescription": "PT Amara Cisadane is a trusted environmental consultant. We provide comprehensive EIA, KTPA, and ATPA services. Contact us for your environmental solutions.",
+    "shortTitle": "About Us",
+    "shortDescription": "PT Amara Cisadane is a Limited Liability Company focused on management consulting, technical services, and other services for sanitation and the environment. Our operations are supported by registration as an AMDAL Document Preparation Service Provider with <a>No. 0085/LPJ/AMDAL-1/LRK/KLH</a>.",
+    "title": "Discover Our Organization",
+    "description": "The company is entirely managed by resources from various disciplines with experience and skills in their respective fields. Each personnel member holds qualifications as AMDAL preparers (KTPA & ATPA) and technical expertise in geophysics, chemistry, biology, socio-cultural studies, public health, traffic, and more.",
+    "CTA": "Learn More",
+    "supports": "Our Support",
+    "visionTitle": "Our Vision",
+    "visionDescription": "To become a competent and professional environmental consultancy company and a forefront advocate for sustainable and environmentally conscious development.",
+    "missionTitle": "Our Mission",
+    "missionDescription": "<div><ul><li>Providing environmental consulting services in accordance with applicable policies and regulations to meet customer needs and satisfaction.</li><li>Continuously enhancing personnel capabilities as team leaders, members, or experts in all supporting areas.</li><li>Improving the company's performance and capacity to deliver high-quality, on-time results.</li><li>Delivering the best environmental consulting services to achieve client satisfaction while upholding the values of Pancasila, science, culture, ethics, and professionalism.</li></ul></div>",
+    "organization": "Our Organizational Structure",
+    "experienceTitle": "Our Experience and Portfolio",
+    "experienceDescription": "Showcasing our dedication to excellence and impactful environmental solutions.",
+    "experienceTableHead": [
+      "Name of Institution",
+      "Work Package",
+      "Location",
+      "Year",
+      "Type of Service"
+    ],
+    "keywords": [
+      "PT Amara Cisadane",
+      "environmental consultant",
+      "EIA",
+      "KTPA",
+      "ATPA",
+      "environmental study",
+      "environmental impact assessment",
+      "geophysics",
+      "chemistry",
+      "biology",
+      "social and cultural",
+      "public health",
+      "traffic",
+      "consulting company",
+      "environmental services",
+      "EIA consultant",
+      "environment",
+      "environmental sustainability",
+      "environmental permit",
+      "environmental management",
+      "about PT Amara Cisadane",
+      "PT Amara Cisadane profile",
+      "history of PT Amara Cisadane",
+      "PT Amara Cisadane vision mission",
+      "Amara Cisadane company",
+      "cooperation with Amara Cisadane",
+      "contact Amara Cisadane",
+      "reach Amara Cisadane"
+    ]
+  },
+  "SwitchButtonLanguage": {
+    "label": "English"
+  },
+  "ServiceList": {
+    "title": "Delivering Excellence Through Our <span>Services</span>",
+    "description": "Comprehensive environmental consultancy tailored to meet diverse client needs with precision and innovation.",
+    "filterAll": "All",
+    "btnText": "Find More",
+    "pageTitle": "Comprehensive Environmental Consultancy Services for Excellence",
+    "btnView": "View More",
+    "portoClients": "Clients",
+    "keywords": [
+      "environmental consulting services",
+      "comprehensive environmental consulting",
+      "environmental services",
+      "EIA",
+      "KTPA",
+      "ATPA",
+      "environmental study",
+      "environmental impact assessment",
+      "excellence",
+      "precision",
+      "innovation",
+      "meet needs",
+      "environmental solutions",
+      "professional services",
+      "trusted environmental consultant",
+      "consulting services",
+      "environment",
+      "environmental sustainability",
+      "environmental permit"
+    ]
+  },
+  "ServiceDetailPage": {
+    "buttonBack": "Back",
+    "advantagesTitle": "Advantages",
+    "advantagesCardDetail": "Benefit",
+    "stepProcessTitle": "Our Step-by-Step Process",
+    "stepProcessDesc": "Clear and structured methods to deliver exceptional service outcomes."
+  },
+  "Regulations": {
+    "title": "Environmental Regulations Repository",
+    "description": "A comprehensive collection of documents related to environmental regulations and compliance.",
+    "pageTitle": "Comprehensive Environmental Regulations and Compliance Documents",
+    "keywords": [
+      "environmental regulations",
+      "environmental regulations",
+      "environmental compliance",
+      "environmental documents",
+      "environmental laws",
+      "government regulations",
+      "local regulations",
+      "environmental laws",
+      "environmental standards",
+      "environmental permits",
+      "EIA",
+      "KTPA",
+      "ATPA",
+      "environmental testing",
+      "hazardous waste",
+      "clean air",
+      "clean water",
+      "land",
+      "biodiversity",
+      "climate change",
+      "regulatory repository",
+      "environmental database",
+      "environmental information",
+      "natural resources",
+      "environment",
+      "environmental sustainability"
+    ]
+  },
+  "NewsUpdates": {
+    "title": "Latest Environmental News and Project Summaries",
+    "description": "Stay informed with the latest environmental news and explore summaries of completed projects by PT Amara Cisadane."
+  },
+  "Activities": {
+    "title": "Tracking Our Current Environmental Impact",
+    "description": "An overview of ongoing projects advancing sustainability and environmental goals."
+  },
+  "Journals": {
+    "title": "Environmental Journal Highlights",
+    "description": "A Curated Selection of Scholarly Articles on Environmental Science and Sustainability"
+  },
+  "Empty": {
+    "title": "No Data Available",
+    "description": "Sorry, we’ll let you know once a new post is available."
+  },
+  "Gallery": {
+    "titleOperational": "Operational Gallery: Showcasing Our Activities",
+    "titleNonOperational": "Non-Operational Gallery: Showcasing Our Activities",
+    "descriptionOperational": "A visual collection showcasing the essence of our operational activities and achievements.",
+    "descriptionNonOperational": "A visual collection showcasing the essence of our non-operational activities and achievements."
+  },
+  "FAQ": {
+    "title": "Frequently Asking Questions",
+    "description": "A comprehensive guide to commonly asked questions and their answers.",
+    "faqContents": {
+      "question-1": {
+        "question": "What products are offered by PT Amara Cisadane?",
+        "answer": "PT Amara Cisadane offers consultancy services for environmental document preparation, technical studies and approvals, SLO (Operational Feasibility Certificate), and wastewater treatment plant (WWTP) planning. Additionally, PT Amara Cisadane has a subsidiary specializing in the design, construction, and installation of water and wastewater treatment systems (WWTP)."
+      },
+      "question-2": {
+        "question": "Where is PT Amara Cisadane located?",
+        "answer": "PT Amara Cisadane is an environmental consultancy company located in Serpong, South Tangerang, Banten. However, we have extensive experience in various cities and even across multiple islands in Indonesia."
+      },
+      "question-3": {
+        "question": "Is PT Amara Cisadane registered with the Ministry of Environment and Forestry (KLH)?",
+        "answer": "Yes, PT Amara Cisadane is registered with the Ministry of Environment and Forestry (KLH) as an Environmental Impact Assessment (AMDAL) Document Preparation Service Provider (LPJP) with registration number 0085/LPJ/AMDAL-1/LRK/KLH."
+      },
+      "question-4": {
+        "question": "Does PT Amara Cisadane have a certified team and experts?",
+        "answer": "Yes, all team members and experts at PT Amara Cisadane are certified with AMDAL A, AMDAL B, Environmental Impact Assessment Preparation Team Member (ATPA), Environmental Impact Assessment Preparation Team Leader (KTPA), and other supporting certifications relevant to their respective fields of expertise."
+      },
+      "question-5": {
+        "question": "Does PT Amara Cisadane have an environmental laboratory accredited by KAN (National Accreditation Committee)?",
+        "answer": "PT Amara Cisadane is supported by PT Kehatilab Indonesia as an environmental laboratory provider accredited by KAN (National Accreditation Committee) with accreditation number LP-852-IDN. It is also registered as an Environmental Laboratory with the Ministry of Environment and Forestry (KLH) under Competency Registration Number 0078/LPJ/LABLING-1/LRK/KLH."
+      }
+    }
+  }
+}
